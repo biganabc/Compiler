@@ -1,0 +1,12 @@
+
+const int mm[3] = {1,2,3};
+
+//int k = 6;
+
+const int n = k;
+
+int main () {
+
+	printf("%d",n);
+    return 0;
+}
